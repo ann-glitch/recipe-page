@@ -1,0 +1,27 @@
+* {
+    background-color: #ffd480
+    ;
+}
+
+img {
+    width: 50%;
+}
+
+h1 {
+    font-family: 'Rampart One', cursive;
+    font-size: 50px;
+}
+
+.second {
+    font-size: 30px;
+}
+
+li a{
+    font-family: 'Grechen Fuemen', cursive;
+    color: black;
+}
+
+.link {
+    font-family: 'Grechen Fuemen', cursive;
+    color: black;
+}

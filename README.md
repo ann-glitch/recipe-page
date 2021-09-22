@@ -1,0 +1,1 @@
+This is a simple recipe website. (one of the projects from odin)
